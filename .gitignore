@@ -1,3 +1,9 @@
+####### Miscellaneous ########
+*.ppt*
+*.doc*
+*.xls*
+
+
 ####### Sublime ########
 # Cache files for Sublime Text
 *.tmlanguage.cache
