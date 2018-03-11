@@ -5,7 +5,7 @@
 Private/*
 
 ####### Keras #######
-*.h5	# Saved files (weights, structure).
+**/*.h5	# Saved files (weights, structure).
 
 
 ####### Sublime ########
