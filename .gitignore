@@ -2,6 +2,10 @@
 *.ppt*
 *.doc*
 *.xls*
+./Private/*
+
+####### Keras #######
+*.h5	# Saved files (weights, structure).
 
 
 ####### Sublime ########
