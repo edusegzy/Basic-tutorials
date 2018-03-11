@@ -2,7 +2,7 @@
 *.ppt*
 *.doc*
 *.xls*
-./Private/*
+Private/*
 
 ####### Keras #######
 *.h5	# Saved files (weights, structure).
