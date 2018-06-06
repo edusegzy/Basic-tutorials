@@ -1,8 +1,6 @@
 # How to contribute
 
-_All credit for the explanations below goes to Atlassian and its tutorial for the ["Forking Workflow"](https://www.atlassian.com/git/tutorials/comparing-workflows/forking-workflow)_
-
-The snippets below have been adapted with the locations of our own repository for convenience.
+_All credit for the explanations below goes to Atlassian and its tutorial for the ["Forking Workflow"](https://www.atlassian.com/git/tutorials/comparing-workflows/forking-workflow). The snippets below have been adapted with the locations of our own repository for convenience._
 
 Key points:
 
